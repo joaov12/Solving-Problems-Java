@@ -9,7 +9,7 @@ public class AVeryBigSum {
         Integer ar[] = new Integer[n];
         sc.nextLine();
 
-         String line = sc.nextLine();
+        String line = sc.nextLine();
         String[] valueOfLine = line.split(" ");
 
         for (int i = 0; i < ar.length; i++) {
